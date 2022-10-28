@@ -13,11 +13,7 @@
     + cpa站台 https://zpadmin.zerozero.com.tw
     + dexio接口 http://zpreg.zerozero.com.tw
     + crm接口 http://zpapi.zerozero.com.tw
-    + 前台upgrade接口 http://zpsoft.zerozero.com.tw
-    
-    + mongodb 10.0.112.153
-    + 前台正式機  10.200.22.35
-    + 前台測試機  10.200.22.45   
+    + 前台upgrade接口 http://zpsoft.zerozero.com.tw 
 	
 + 泰國相關連結
     + chp站台 https://zphq.zerozero.asia
@@ -27,4 +23,10 @@
     + crm接口 http://zpapi.zerozero.asia
     + 前台upgrade接口 http://zpsoft.zerozero.asia
 
++連線資訊
+  +台灣
+    + mongodb 10.0.112.153
+    + 前台正式機  10.200.22.35
+    + 前台測試機  10.200.22.45
+  +泰國
     + mongodb 10.8.251.164
