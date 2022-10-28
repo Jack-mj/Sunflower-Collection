@@ -23,10 +23,10 @@
     + crm接口 http://zpapi.zerozero.asia
     + 前台upgrade接口 http://zpsoft.zerozero.asia
 
-+連線資訊
-  +台灣
++ 連線資訊
+    + 台灣
     + mongodb 10.0.112.153
     + 前台正式機  10.200.22.35
     + 前台測試機  10.200.22.45
-  +泰國
+    + 泰國
     + mongodb 10.8.251.164
